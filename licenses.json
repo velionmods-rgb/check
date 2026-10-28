@@ -1,1 +1,18 @@
-
+{
+  "licenses": [
+    {
+      "discord_id": "595966936307990529",
+      "key": "test",
+      "plan": "Premium",
+      "expires": "2026-12-31",
+      "active": true
+    },
+    {
+      "discord_id": "987654321098765432",
+      "key": "SHAX-LIFE-TIME-0001",
+      "plan": "Lifetime",
+      "expires": "lifetime",
+      "active": true
+    }
+  ]
+}
